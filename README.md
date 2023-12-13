@@ -1,19 +1,11 @@
-# Koa Typescript Template
+# Enhancer For [Timetable app](https://classtimetable.app/)
 
-My own template to develop RestfulAPI. (NodeJS+Typescript+Koa+YarnBerry)
+Adding Some Feature in Timetable app.
 
-## 🧰 Getting Started
-### ‼️ Prerequisites
-This project uses Yarn as package manager
-```shell
-npm install --global yarn
-```
-Make repository using this template and Clone.
+## Feature
 
-After Clone, EDIT `package.json`.
-### 🧪 Using
-```shell
-yarn dev
-yarn build
-yarn start
-```
+* Change class color with RGB.
+* Export Landscape PDF.
+* Comming Soon...
+
+**All Features can be used only if you provide a .timetable file.(Can only export with pro version)**

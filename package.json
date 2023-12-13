@@ -1,10 +1,10 @@
 {
   "_comment": "Template part",
-  "name": "PROJECT-NAME",
-  "version": "VERSION",
-  "description": "DESCRIPTION",
-  "repository": "github:GITHUB-NAME/PROJECT-NAME",
-  "author": "YOUR-NAME <EMAIL> (URL)",
+  "name": "enhancer_for_timetable",
+  "version": "1.0.0",
+  "description": "Enhancer For https://classtimetable.app/",
+  "repository": "github:DohanToyproject/EnhancerForTimetable",
+  "author": "Dohan Kwon <dohan.k764@gmail.com> (https://dohan.in/)",
   "license": "MIT",
   "main": "src/app.ts",
   "scripts": {
